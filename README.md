@@ -54,7 +54,7 @@ Il n’est **pas conçu pour une utilisation générique**, mais vous êtes libr
 
 Ce thème est distribué sous la licence **GNU GPL v3 ou ultérieure**.
 
-Voir le fichier [`LICENSE.txt`](./LICENSE.txt) pour plus d’informations.
+Voir la [licence complète](https://github.com/mikepixeldev/Theme-MPJ-2025?tab=GPL-3.0-1-ov-file#) pour plus d’informations.
 
 ## 👤 Auteur
 
